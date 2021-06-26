@@ -1,0 +1,8 @@
+#add file which not upload on remote location.
+Drivers/
+
+MDK-ARM/
+
+input_capture.ioc
+.mxproject
+
